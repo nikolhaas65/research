@@ -3,4 +3,4 @@
 ## 1. Global Currency Lifetime 
 It is analysis of historical switches of global currencies
 compiled version is published on 
-https://www.blogger.com/u/1/blog/post/edit/6551738253497040526/3298766263197391474
+https://blog.uxta.io/2020/12/global-currency-lifetime-or-on.html
