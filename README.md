@@ -8,4 +8,4 @@ Install it, setup and rerun notebooks before you can see the result.
 ## 1. Global Currency Lifetime 
 It is analysis of historical switches of global currencies. Compiled version is published on 
 
-https://blog.uxta.io/2020/12/global-currency-lifetime-or-on.html
+https://innovaest-org.blogspot.com/2020/12/introduction-idea-for-this-analysis.html
